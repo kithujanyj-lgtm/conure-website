@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conure Toolkit</title>
+    <link rel="stylesheet" href="textstyle_conurehomepg.css">
+</head>
+<body>
+
+    <!-- Loading screen -->
+    <div class="loading-screen">
+        <img src="louding.gif" alt="Loading..." class="loading-gif">
+        <p>Loading...</p>
+    </div>
+
+    <!-- Header -->
+    <header class="site-header">
+        <h1>_____________________Conure Toolkit - All About Conures________</h1>
+    </header>
+
+    <!-- Sidebar + content -->
+    <div class="page-layout">
+
+        <!-- Navigation menu (left column) -->
+        <nav class="site-nav" aria-label="Main navigation">
+            <ul>
+                <li><a href="conure_home.html">Home</a></li>
+                <li><a href="conure_species.html" class="active" aria-current="page">Conure Species</a></li>
+                <li><a href="conure_nutrition.html">Food &amp; Nutrition</a></li>
+                <li><a href="conure_health.html">Health &amp; Wellness</a></li>
+                <li><a href="conure_training.html">Training &amp; Behavior</a></li>
+                <li><a href="conure_genetics.html">Breeding &amp; Genetics</a></li>
+                <li><a href="conure_enrichment.html">Enrichment &amp; Toys</a></li>
+                <li><a href="conure_housing.html">Housing &amp; Environment</a></li>
+                <li><a href="conure_resources.html">Resources &amp; References</a></li>
+            </ul>
+        </nav>
+
+        <!-- Main content (right column) -->
+        <main class="main-content">
+
+
+
