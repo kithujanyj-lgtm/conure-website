@@ -8,8 +8,14 @@
 
 html {
     scroll-behavior: smooth;
+           scrollbar-color:  #dac340 #0c4119;
+        /* track/backgoroud colour*/
+        scrollbar-width: auto;
 }
-
+::selection {
+    background: rgb(175, 209, 175);
+}
+ 
 body {
     margin: 0;
     padding: 0;
